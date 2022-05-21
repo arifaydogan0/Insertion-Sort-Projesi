@@ -20,4 +20,4 @@ sıralanacak diziyi ikiye bölüp kendi içinde sıralı küçük parçaları bi
 [16,21,11,8,12,22] dizisi örneği için;
 Dizinin sort türüne göre aşamaları: [16,21,11,8,12,22] [16,21,11] [8,12,22] [16] [21,11] [8] [12,22] [16] [21,11] [8] [12,22] [16,21,11] [8,12,22] [8,12,16,21,11,22]
 
-Big-O gösterimi: On(logn)
+## Big-O gösterimi: On(logn)
